@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Jakub
 
 
--I'm a passionate junior Web developer, mostly focusing on UI design, but I can also build a full web page according to your ideas.
+-I'm a passionate junior Front-end developer, last year I gain a lot of experience working as a Front-end developer at BeCode, where i learned TypeScript and gained a lot of experiences in React.
 
 -I'm currently studying at the University of Matej Bell in Slovakia / applied informatics and software engineering.
 
 -I have been an exchange student in Finland at the University of Applied Science, where I studied Web development which I stuck to.
 
-In the future I really would like to extend my knowleage to different frameworks like NextJS and also be really confident in styled-components,
-and also try to create some back-end apps.
+In the future, I would like to extend my knowledge to different frameworks like NextJS and learn more about Backend development.
 
 <!---
 Asajco/Asajco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
