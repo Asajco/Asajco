@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Jakub<br>-I'm a passionate junior Front-end developer,  with nearly 3 years of experience with React<br><br>-I graduated at the University of Matej Bell in Slovakia / applied informatics and software engineering and  curently im studying at DTU .<br><br>-I have been an exchange student in Finland at the University of Applied Science, where I studied Web development which I stuck to.<br><br>In the future, I would like to extend my knowledge to different frameworks like NextJS and learn more about Backend development.
+# Hey there!
+👋 I’m Jakub<br>-I'm a passionate junior Front-end developer, with nearly 3 years of experience with Front-end development<br><br>-I graduated as bachelor at the University of Matej Bell in Slovakia / applied informatics and software engineering and curently im studying master in CS at DTU .<br><br>-I have been an exchange student in Finland at the University of Applied Science, where I studied Web development which I stuck to.<br><br>Seeking for new adventures everyday
 
 
 # 💻 Tech Stack:
